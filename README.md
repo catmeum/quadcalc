@@ -1,0 +1,2 @@
+# quadcalc
+Quadratic Equation Solver
